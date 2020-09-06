@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\css",
+    "\\public\\js",
+    "\\src",
+    "\\templates",
+    "\\templates\\partials",
+    "\\templates\\views",
+    "\\utils"
+  ],
+  "SelectedNode": "\\package.json",
+  "PreviewInSolutionExplorer": false
+}
